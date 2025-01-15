@@ -1,0 +1,8 @@
+user_id,timestamp,action
+user1,2023-01-01 10:00:00,login
+user2,2023-01-01 10:05:00,login
+specific_user_id,2023-01-01 10:10:00,login
+user1,2023-01-01 10:15:00,logout
+specific_user_id,2023-01-01 10:20:00,logout
+user2,2023-01-01 10:25:00,login
+specific_user_id,2023-01-01 10:30:00,login
